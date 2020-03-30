@@ -1,3 +1,3 @@
-def using_times = 
-	#your code here
+def using_times = "Wingardium Leviosa"
+	puts 
 end
